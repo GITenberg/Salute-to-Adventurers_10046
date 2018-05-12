@@ -1,5 +1,8 @@
 _repo: Salute-to-Adventurers_10046
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buchan, John
@@ -14,6 +17,8 @@ description: In John Buchan's thrill-a-minute novel Salute to Adventurers, hero 
   bucolic landscape of early colonial America. Faced with adversity, danger and social
   scorn, Garvald nevertheless stands firm in his commitment to bringing fairness and
   order to the burgeoning colony. Will he achieve this aim and live to tell the tale?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10046#Salute-to-Adventurers
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
